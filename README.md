@@ -1,4 +1,4 @@
-# project-4-hello-world-Jenkins
+# Introduction to Jenkins
 
 ## Description
 We were fimilarized with jenkins through this project where we
